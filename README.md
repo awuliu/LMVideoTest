@@ -6,6 +6,7 @@ ios采集音视频数据并通过rtmp上传到nginx
 
 ###相关博文
 http://www.alloyteam.com/?p=10876
+http://my.oschina.net/bugly/blog/705131
 
 如果对你有用，可以给个star👍
 
